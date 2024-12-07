@@ -1,0 +1,18 @@
+current directory: /Users/pierrecoster/Dropbox/Website/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/pierrecoster/.rbenv/versions/3.3.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/pierrecoster/Dropbox/Website/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241031-92993-c681eh sitelibdir\=./.gem.20241031-92993-c681eh clean
+
+current directory: /Users/pierrecoster/Dropbox/Website/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241031-92993-c681eh sitelibdir\=./.gem.20241031-92993-c681eh
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/pierrecoster/Dropbox/Website/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241031-92993-c681eh sitelibdir\=./.gem.20241031-92993-c681eh install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20241031-92993-c681eh/racc
+
+current directory: /Users/pierrecoster/Dropbox/Website/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241031-92993-c681eh sitelibdir\=./.gem.20241031-92993-c681eh clean
