@@ -21,7 +21,7 @@ repository               : "costerpierre/costerpierre.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "usc_picture.png"
+  avatar           : "usc_profile.jpg"
   name             : "Pierre Coster"
   pronouns         : # example: "she/her"  
   bio              : "3rd Year PhD Student in Economics"
@@ -211,16 +211,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
