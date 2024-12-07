@@ -13,6 +13,10 @@ I am a third year PhD student in Economics at the University of Southern Califor
 
 My research focuses on **International Trade**, **Spatial Economics** and **Environmental Economics**
 
+Prior to my doctoral studies, I studied at SciencesPo Paris and Universitat Pompeu Fabra, and worked at SciencesPo Paris, the European Central Bank and the OECD.
+
+Feel free to reach out! <pcoster@usc.edu>
+
 
 Working Papers
 ======
