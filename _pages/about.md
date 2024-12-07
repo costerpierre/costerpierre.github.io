@@ -15,7 +15,7 @@ My research focuses on **International Trade**, **Spatial Economics** and **Envi
 
 Prior to my doctoral studies, I studied at SciencesPo Paris and Universitat Pompeu Fabra, and worked at SciencesPo Paris, the European Central Bank and the OECD.
 
-Feel free to reach out! <pcoster@usc.edu>
+Feel free to reach out!  <pcoster@usc.edu>
 
 
 Working Papers
