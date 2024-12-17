@@ -20,9 +20,11 @@ Feel free to reach out via email: <pcoster@usc.edu>.
 
 ## Working Papers  
 
-**"Firms' Supply Chain Adaptation to Carbon Taxes"**  
+[**"Firms' Supply Chain Adaptation to Carbon Taxes"**](files/Climate_Sourcing.pdf) 
 Co-authored with [Julian di Giovanni](https://julian.digiovanni.ca/) and [Isabelle Méjean](https://www.isabellemejean.com/index.html)  
-[First Draft](files/Climate_Sourcing.pdf)
+[CEPR Discussion Paper 19644](https://cepr.org/publications/dp19644)
+[FRBNY Staff Report No. 1136. (v.Nov24)](https://www.newyorkfed.org/research/staff_reports/sr1136)
+
 
 
 
