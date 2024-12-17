@@ -22,10 +22,8 @@ Feel free to reach out via email: <pcoster@usc.edu>.
 ### [**Firms' Supply Chain Adaptation to Carbon Taxes**](files/Climate_Sourcing.pdf)  
 <small>*Co-authored with [Julian di Giovanni](https://julian.digiovanni.ca/) and [Isabelle Méjean](https://www.isabellemejean.com/index.html)*  
 📚 *CEPR Discussion Paper: [No. 19644](https://cepr.org/publications/dp19644) - FRBNY Staff Report: [No. 1136 (v.Nov24)](https://www.newyorkfed.org/research/staff_reports/sr1136)*</small>
-
 <details>
-<summary><strong>Abstract</strong></summary>
-
+<summary><small>Abstract</small></summary>
 <small>
 <p style="text-align: justify;">This paper investigates how firms adapt their sourcing of clean and dirty inputs in response to changes in climate policy. We use information from the European Union's Emissions Trading System (EU ETS) and the Carbon Border Adjustment Mechanism (CBAM) to create a new classification of clean and dirty products based on whether they are subject to a domestic or a border carbon tax.  
 
@@ -35,7 +33,6 @@ The simulated ETS carbon tax scenario is able to match leakage observed in the d
 
 Overall, household welfare declines because the higher costs associated with the carbon policies outweigh the benefits of reduced emissions. This result holds even when considering values of the social cost of carbon up to €1500.</p>
 </small>
-
 </details>
 
 
