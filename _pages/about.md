@@ -28,3 +28,23 @@ We then combine this dataset with French firms’ product-level import data over
 The simulated ETS carbon tax scenario is able to match leakage observed in the data and leads to a higher price level and a modest decline in emissions. The scenario that further includes the CBAM carbon tariff reverses carbon leakage at the cost of an additional rise in prices.  
 Overall, household welfare declines because the higher costs associated with the carbon policies outweigh the benefits of reduced emissions. This result holds even when considering values of the social cost of carbon up to €1500.</p>
 </small></details>
+
+## Teaching  
+
+### Teaching Assistant 
+
+- **Macroeconomic Theory II** *(PhD level)*  
+  <small>University of Southern California, Profs. Pablo Kurlat and Andy Neumeyer – Spring 2025</small>  
+
+- **Introduction to Macroeconomics** *(Undergraduate level)*  
+  <small>University of Southern California, Prof. Lodovico Pizzati – Fall 2024</small>  
+  <small>[Student Evaluations](files/evaluations_Fall_2024.pdf)</small>  
+
+### Tutoring and Grading Assistant  
+
+- **The Price of Democracy: Media, Participation, and Elections**  
+  <small>*(Translated from "Le prix de la démocratie : Médias, participation et élections")*  
+  Sciences Po Paris, Prof. Julia Cagé – Spring 2022</small>  
+
+- **Introduction to Macroeconomics**  
+  <small>Columbia University Undergraduate Programs in Paris – Fall 2021</small>  
