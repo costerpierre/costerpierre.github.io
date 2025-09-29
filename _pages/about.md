@@ -29,6 +29,12 @@ The simulated ETS carbon tax scenario is able to match leakage observed in the d
 Overall, household welfare declines because the higher costs associated with the carbon policies outweigh the benefits of reduced emissions. This result holds even when considering values of the social cost of carbon up to €1500.</p>
 </small></details>
 
+## Work in Progress
+
+### **Supply Chain Composition and Carbon Pricing: Evidence from the EU ETS**  
+<small>*with [Hubert Massoni](https://hubertmassoni.github.io/) and [Lauri Esala](https://lauriesala.github.io/)*</small>
+
+
 ## Teaching  
 
 ### Teaching Assistant 
