@@ -39,6 +39,9 @@ Overall, household welfare declines because the higher costs associated with the
 
 ### Teaching Assistant 
 
+- **Intermediate Macroeconomics** *(Undergraduate level)*  
+  <small>University of Southern California, Prof. Robert Dekle – Fall 2025</small>  
+
 - **Macroeconomic Theory II** *(PhD level)*  
   <small>University of Southern California, Profs. Pablo Kurlat and Andy Neumeyer – Spring 2025</small>  
 
