@@ -1,46 +1,42 @@
-# Welcome to Jekyll!
-# Theme Settings
-theme                    : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air" gives a very sharp, clean white/blue look.
+# Website: Pierre Coster - Academic Profile
+# Theme: Minimal Mistakes (Remote version for GitHub Pages)
 
-# Basic Site Settings
+# Site Settings
 locale                   : "en-US"
 title                    : "Pierre Coster"
 title_separator          : "-"
-name                     : &name "Pierre Coster"
+name                     : "Pierre Coster"
 description              : "PhD Candidate in Economics at USC. Researching International Trade, Spatial Economics, and Environmental Economics."
 url                      : "https://costerpierre.github.io"
 baseurl                  : "" 
 repository               : "costerpierre/costerpierre.github.io"
 
-# Site Author
+# Theme Configuration
+remote_theme             : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "air" # Provides the cleanest white/minimalist base
+
+# Site Author Sidebar
 author:
-  avatar           : "usc_profile.jpg" # Ensure this file is in your root or /assets/images folder
+  avatar           : "usc_profile.jpg"
   name             : "Pierre Coster"
   bio              : "PhD Candidate in Economics"
-  employer         : "University of Southern California"
   location         : "Los Angeles, CA"
-  email            : "pcoster@usc.edu" 
-  
-  # Social Links
+  email            : "mailto:pcoster@usc.edu"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=tMrRip0AAAAJ"
-  linkedin         : "pierrecoster"
+  linkedin         : "https://www.linkedin.com/in/pierrecoster/"
   twitter          : "pierre__coster"
-  # You can add others here if you have them, otherwise leave blank
 
-# Site Settings
-breadcrumbs              : false 
-words_per_minute         : 160
-future                   : false
-read_more                : "disabled" 
-talkmap_link             : false 
+# Default Page Settings
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      classes: wide # This gives us more room for the 'stonky' layout
 
-# Navigation (Disable header nav since we want a single page feel)
-classes:
-  - wide # This makes the content area wider and sharper
-
-# Markdown Processing
+# Markdown & Performance
 markdown: kramdown
 highlighter: rouge
 lsi: false
@@ -57,13 +53,14 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Plugins
+# Plugins (Necessary for GitHub Pages)
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-remote-theme
 
 whitelist:
   - jekyll-feed
@@ -71,3 +68,4 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-remote-theme
