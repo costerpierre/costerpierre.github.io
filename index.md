@@ -222,8 +222,11 @@ function copyEmail() {
 ### Work in Progress
 
 <div class="wip-item">
-  <span class="paper-title-wip">Climate Change Adaptation and Subsidies in Agriculture: Evidence From France</span>
-  <span class="coauthors"><a href="files/Poster_Missing_Intercept.pdf" target="_blank">Poster</a> — presented at Modeling Climate-Economic Dynamics Workshop for Young Scholars, May 27–29, 2026 at U Chicago</span>
+  <span class="paper-title-wip">The Missing Intercept of Climate Change: Evidence from Agriculture</span>
+  <span style="font-size: 0.9rem; display: block; margin-top: 4px;">
+  <a href="files/Poster_Missing_Intercept.pdf" target="_blank">Poster</a> &nbsp;|&nbsp;
+  Modeling Climate-Economic Dynamics Workshop for Young Scholars, May 27–29, 2026, University of Chicago
+  </span>
 </div>
 
 <div class="wip-item">
