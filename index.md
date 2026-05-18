@@ -222,21 +222,22 @@ function copyEmail() {
 ### Work in Progress
 
 <div class="wip-item">
+  <span class="paper-title-wip">Climate Change Adaptation and Subsidies in Agriculture: Evidence From France</span>
+  <span class="coauthors"><a href="files/Poster_Missing_Intercept.pdf" target="_blank">Poster</a> — presented at Modeling Climate-Economic Dynamics Workshop for Young Scholars, May 27–29, 2026 at U Chicago</span>
+</div>
+
+<div class="wip-item">
   <span class="paper-title-wip">Demand for Clean Household Energy: LPG in Rural Ghana</span>
   <span class="coauthors">with <a href="https://sites.google.com/site/bkelseyjack" target="_blank">Kelsey Jack</a>, <a href="https://www.darbyjack.org/" target="_blank">Darby Jack</a>, <a href="https://dornsife.usc.edu/paulina-oliva/" target="_blank">Paulina Oliva</a>, and Georgette Owusu-Amankwah</span>
 </div>
 
 <div class="wip-item">
+  <span class="paper-title-wip">Firm Upgrading and A New Estimation of Product Quality</span>
+</div>
+
+<div class="wip-item">
   <span class="paper-title-wip">Carbon Policies and Firm-to-Firm Networks</span>
   <span class="coauthors">with <a href="https://lauriesala.github.io/" target="_blank">Lauri Esala</a> and <a href="https://hubertmassoni.github.io/" target="_blank">Hubert Massoni</a></span>
-</div>
-
-<div class="wip-item">
-  <span class="paper-title-wip">Climate Change Adaptation and Subsidies in Agriculture: Evidence From France</span>
-</div>
-
-<div class="wip-item">
-  <span class="paper-title-wip">Firm Upgrading and A New Estimation of Product Quality</span>
 </div>
 </div>
 
